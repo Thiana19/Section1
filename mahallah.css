@@ -46,3 +46,7 @@ p {
   border-bottom-width: 2px;
   border-color: green;
 }
+
+a {
+  float: left;
+}
